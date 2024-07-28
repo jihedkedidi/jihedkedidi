@@ -58,3 +58,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a love for a
 </p>
 
 
+---
+
+![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihedkedidi&show_icons=true&theme=radical)
+
+
+
+
